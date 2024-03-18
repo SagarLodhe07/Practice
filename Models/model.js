@@ -1,6 +1,6 @@
 module.exports = {
   1: {
-    id: 1,
+      id: 1,
     idea_name: "Tesla",
     idea_author: "Elon",
   },
